@@ -1,0 +1,21 @@
+{
+    "name": "tabernicola/amp-client-bundle",
+    "description": "Elastic apm client bundle for symfony",
+    "type": "symfony-bundle",
+    "require": {
+        "philkra/elastic-apm-php-agent": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tabernicola",
+            "email": "tabernicola01@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Tabernicola\\ElasticAmpClientBundle\\": "src/"
+        }
+    }
+}
