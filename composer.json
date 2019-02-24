@@ -1,5 +1,5 @@
 {
-    "name": "tabernicola/amp-client-bundle",
+    "name": "tabernicola/apm-client-bundle",
     "description": "Elastic apm client bundle for symfony",
     "type": "symfony-bundle",
     "require": {
